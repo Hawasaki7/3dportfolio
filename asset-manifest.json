@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.96fb8166.css",
+    "main.js": "/static/js/main.ec1d7c36.js",
+    "static/media/tokyo.mp4": "/static/media/tokyo.2be5cb55849edc0c9382.mp4",
+    "static/media/pilotjetslides.mp4": "/static/media/pilotjetslides.507c6fe9712b859cf2fa.mp4",
+    "static/media/Anime.mp4": "/static/media/Anime.01aae2844608d72acbbe.mp4",
+    "static/media/af.mp3": "/static/media/af.d82eaa5d9f11426857ca.mp3",
+    "static/media/mandarine.mp3": "/static/media/mandarine.ac34fd9519b2d6352439.mp3",
+    "static/media/ARrt.mp4": "/static/media/ARrt.6de99c37b182cb8d5b42.mp4",
+    "static/media/prj2.jpg": "/static/media/prj2.efac131b1c22d4e7d791.jpg",
+    "static/media/prj1.jpg": "/static/media/prj1.1bc31009a0fcaccd8bfe.jpg",
+    "static/media/abtme.jpg": "/static/media/abtme.79c19d5b71523207fb44.jpg",
+    "static/media/prj4.jpg": "/static/media/prj4.82b74b4fe806d3181f3f.jpg",
+    "static/media/prj5.jpg": "/static/media/prj5.18b16a435174a9866a7b.jpg",
+    "static/media/contme.jpg": "/static/media/contme.6d9e5f004d85bcdc3ce3.jpg",
+    "static/media/prj3.jpg": "/static/media/prj3.079576a94de1187dfab8.jpg",
+    "static/media/projekts.jpg": "/static/media/projekts.2d425dddcc9f5af8fe90.jpg",
+    "index.html": "/index.html",
+    "main.96fb8166.css.map": "/static/css/main.96fb8166.css.map",
+    "main.ec1d7c36.js.map": "/static/js/main.ec1d7c36.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.96fb8166.css",
+    "static/js/main.ec1d7c36.js"
+  ]
+}
